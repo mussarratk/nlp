@@ -11,8 +11,10 @@ https://www.coursera.org/learn/sentiment-analysis-bert/ungradedLab/WiKpe/sentime
 http://coursera.org/learn/twitter-sentiment-analysis/home/module/1
 https://www.coursera.org/learn/genai-for-business-analysis-fine-tuning-llms/home/module/1
 https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1
-- Microsoft
+- Microsoft NLP
 https://www.coursera.org/learn/nlp-microsoft-azure/home/module/3
+- Microsoft Sentiment analysis
+https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/gMVDM/use-case-demonstration-sentiment-analysis
 - Google Cloud - vertex ai
 https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
 ---------------------------
