@@ -15,7 +15,11 @@ nlp specialization - https://www.coursera.org/programs/learning-program-for-fami
 - https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
 - deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 
+
   <details>
+
+
+  
 You're looking to get exposure to NLP concepts and basic text processing tasks through projects, specifically on platforms like Coursera. That's a great approach! Here's a guide to help you, including project ideas and relevant Coursera/other platform resources:
 
 ## Understanding Core NLP Concepts & Basic Text Processing
