@@ -6,17 +6,22 @@ https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/home/
 
 
 --------------------------------------
+Pro
 https://www.coursera.org/learn/sentiment-analysis-bert/ungradedLab/WiKpe/sentiment-analysis-with-deep-learning-using-bert
 http://coursera.org/learn/twitter-sentiment-analysis/home/module/1
 https://www.coursera.org/learn/genai-for-business-analysis-fine-tuning-llms/home/module/1
 https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1
+- Microsoft
+https://www.coursera.org/learn/nlp-microsoft-azure/home/module/3
+- Google Cloud - vertex ai
+https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
 ---------------------------
-nlp specialization - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/natural-language-processing?source=search
+nlp specialization 
+- https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/natural-language-processing?source=search
 - https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
 - deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 
-
-  <details>
+<details>
 
 
   
