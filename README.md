@@ -23,10 +23,37 @@ nlp specialization
 - https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
 - deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 
+------------------------------------------------------------------------------------------
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/7de46d3b-78c2-4b42-a8a3-0cf8f66481de)
+Custom NLP Project
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------
 <details>
 
 Let's break down this explanation of how a preprocessing model handles sentences for a fixed-length input, focusing on the "input word ID" and "masking" concepts.
