@@ -48,6 +48,7 @@ nlp specialization
 ![image](https://github.com/user-attachments/assets/7de46d3b-78c2-4b42-a8a3-0cf8f66481de)
 Custom NLP Project
 
+![image](https://github.com/user-attachments/assets/4cb8f046-0882-4a31-b795-61d5602681e7)
 
 
 
