@@ -32,12 +32,15 @@ https://www.cloudskillsboost.google/course_templates/40/labs/534090
 ![image](https://github.com/user-attachments/assets/515ff175-7201-4f1e-adc6-5b060dad520c)
 ![image](https://github.com/user-attachments/assets/7f65c4b1-6c50-470a-8d25-ffd9b7be62dc)
 ![image](https://github.com/user-attachments/assets/ee943b25-f351-464f-a883-80bc047e743b)
+![image](https://github.com/user-attachments/assets/3923ef17-6b77-4e85-8cb6-4821e90c0f5c)
 
+![image](https://github.com/user-attachments/assets/63ab1c07-03bb-4342-a38e-173b88cc8089)
 
 !git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 ![image](https://github.com/user-attachments/assets/49d1ac86-79a7-416c-9b5e-f580b87d4839)
 https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_learning/deepdive2/text_classification/labs/reusable_embeddings.ipynb
 ![image](https://github.com/user-attachments/assets/2714159c-b3a6-4325-a1bb-6c3eaabd5a24)
+![image](https://github.com/user-attachments/assets/e3829781-96ba-491c-b5f2-8b7d380c98ee)
 
 
 
