@@ -30,6 +30,8 @@ https://www.cloudskillsboost.google/course_templates/40/labs/534090
 ![image](https://github.com/user-attachments/assets/f917089e-9936-44d6-b3d3-8951a999dde6)
 
 ![image](https://github.com/user-attachments/assets/515ff175-7201-4f1e-adc6-5b060dad520c)
+![image](https://github.com/user-attachments/assets/7f65c4b1-6c50-470a-8d25-ffd9b7be62dc)
+![image](https://github.com/user-attachments/assets/ee943b25-f351-464f-a883-80bc047e743b)
 
 
 !git clone https://github.com/GoogleCloudPlatform/training-data-analyst
