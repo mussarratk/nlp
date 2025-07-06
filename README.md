@@ -24,11 +24,16 @@ nlp specialization
 - deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 
 ------------------------------------------------------------------------------------------
+https://www.cloudskillsboost.google/course_templates/40/labs/534090
+![image](https://github.com/user-attachments/assets/a9a366f2-e29c-4d08-9c36-d4dbfa898262)
 
+![image](https://github.com/user-attachments/assets/f917089e-9936-44d6-b3d3-8951a999dde6)
 
-
-
-
+![image](https://github.com/user-attachments/assets/515ff175-7201-4f1e-adc6-5b060dad520c)
+!git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+![image](https://github.com/user-attachments/assets/49d1ac86-79a7-416c-9b5e-f580b87d4839)
+https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_learning/deepdive2/text_classification/labs/reusable_embeddings.ipynb
+![image](https://github.com/user-attachments/assets/2714159c-b3a6-4325-a1bb-6c3eaabd5a24)
 
 
 
