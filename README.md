@@ -3,8 +3,12 @@
 [Fine-tuning pre-trained LLMs](https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2)
 https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2
 https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/home/module/3
-
-
+------------------------------------------------------------------------
+GCP 
+- git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+- git clone https://github.com/GoogleCloudPlatform/asl-ml-immersion.git
+- time series pred
+- text classifier /bert
 --------------------------------------
 Pro
 https://www.coursera.org/learn/sentiment-analysis-bert/ungradedLab/WiKpe/sentiment-analysis-with-deep-learning-using-bert
