@@ -41,6 +41,7 @@ https://www.cloudskillsboost.google/course_templates/40/labs/534090
 https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_learning/deepdive2/text_classification/labs/reusable_embeddings.ipynb
 ![image](https://github.com/user-attachments/assets/2714159c-b3a6-4325-a1bb-6c3eaabd5a24)
 ![image](https://github.com/user-attachments/assets/e3829781-96ba-491c-b5f2-8b7d380c98ee)
+![image](https://github.com/user-attachments/assets/931557c7-64e2-4410-8fd1-552166a1c8dd)
 
 
 
