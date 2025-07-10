@@ -31,6 +31,7 @@ nlp specialization
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb
 ![image](https://github.com/user-attachments/assets/7dcca010-ccf9-4efe-852d-f49fe168fe70)
 
+![image](https://github.com/user-attachments/assets/f0022068-9a74-47a8-86c5-8f90a8de762d)
 
 ------------------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/course_templates/40/labs/534090
