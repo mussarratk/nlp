@@ -1,34 +1,23 @@
 # nlp - Sentiment Analysis
-# azure
+# Azure
 [Fine-tuning pre-trained LLMs](https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2)
 https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2
 https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/home/module/3
+https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/gMVDM/use-case-demonstration-sentiment-analysis
+https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/Cm51X/walkthrough-implementing-sentiment-analysis-optional
+- Using a pretrained model enables you to classify text sentiment without the time and resource investment required for training a new model from scratch.
+  <img width="1321" height="554" alt="image" src="https://github.com/user-attachments/assets/133bc6b0-35a5-488e-b140-d1956f953aec" />
+
 ------------------------------------------------------------------------
-GCP 
+# GCP 
 - git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 - git clone https://github.com/GoogleCloudPlatform/asl-ml-immersion.git
 - time series pred
 - text classifier /bert
---------------------------------------
-Pro
-https://www.coursera.org/learn/sentiment-analysis-bert/ungradedLab/WiKpe/sentiment-analysis-with-deep-learning-using-bert
-http://coursera.org/learn/twitter-sentiment-analysis/home/module/1
-https://www.coursera.org/learn/genai-for-business-analysis-fine-tuning-llms/home/module/1
-https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1
-- Microsoft NLP
-https://www.coursera.org/learn/nlp-microsoft-azure/home/module/3
-- Microsoft Sentiment analysis
-https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/gMVDM/use-case-demonstration-sentiment-analysis
-- Google Cloud - vertex ai
-https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
----------------------------
-nlp specialization 
-- https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/natural-language-processing?source=search
-- https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
-- deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
+
 ------------------------------------------------------------------------------------------------
 
-# classify_text_with_bert
+# classify_text_with_bert - GCP - Vertex ai
 https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb
 
@@ -84,8 +73,24 @@ https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_
 ![image](https://github.com/user-attachments/assets/4cb8f046-0882-4a31-b795-61d5602681e7)
 ![image](https://github.com/user-attachments/assets/cb407656-c53c-4c0f-9bae-965b38c7c9ef)
 
-
-
+-----------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+- Project
+https://www.coursera.org/learn/sentiment-analysis-bert/ungradedLab/WiKpe/sentiment-analysis-with-deep-learning-using-bert
+http://coursera.org/learn/twitter-sentiment-analysis/home/module/1
+https://www.coursera.org/learn/genai-for-business-analysis-fine-tuning-llms/home/module/1
+https://www.coursera.org/learn/natural-language-processing-tensorflow/home/week/1
+- Microsoft NLP
+https://www.coursera.org/learn/nlp-microsoft-azure/home/module/3
+- Microsoft Sentiment analysis
+https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/gMVDM/use-case-demonstration-sentiment-analysis
+- Google Cloud - vertex ai
+https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
+---------------------------
+# nlp specialization 
+- https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/natural-language-processing?source=search
+- https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
+- deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 
 
 ------------------------------------------------------------------------------------------------------------
