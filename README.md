@@ -27,13 +27,16 @@ nlp specialization
 - https://www.coursera.org/programs/learning-program-for-family-iwira/learn/natural-language-processing-tensorflow?source=search
 - deep learning spe - https://www.coursera.org/programs/learning-program-for-family-iwira/specializations/deep-learning?source=search
 ------------------------------------------------------------------------------------------------
+
 # classify_text_with_bert
+https://www.coursera.org/learn/transformer-models-and-bert-model/lecture/bHpOD/transformer-models-and-bert-model-lab-walkthrough
 https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb
+
 ![image](https://github.com/user-attachments/assets/7dcca010-ccf9-4efe-852d-f49fe168fe70)
 
 ![image](https://github.com/user-attachments/assets/f0022068-9a74-47a8-86c5-8f90a8de762d)
 
-------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/course_templates/40/labs/534090
 ![image](https://github.com/user-attachments/assets/a9a366f2-e29c-4d08-9c36-d4dbfa898262)
 
