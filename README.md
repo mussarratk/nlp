@@ -28,6 +28,7 @@ https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/te
 ![image](https://github.com/user-attachments/assets/7dcca010-ccf9-4efe-852d-f49fe168fe70)
 
 ![image](https://github.com/user-attachments/assets/f0022068-9a74-47a8-86c5-8f90a8de762d)
+<img width="1342" height="664" alt="image" src="https://github.com/user-attachments/assets/0a3cc399-e549-490b-a3f9-8eef778c9007" />
 
 ------------------------------------------------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/course_templates/40/labs/534090
