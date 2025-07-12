@@ -38,7 +38,7 @@ https://www.cloudskillsboost.google/paths/17/course_templates/593/labs/541294
 
 <img width="1293" height="545" alt="image" src="https://github.com/user-attachments/assets/0f35a40c-e058-4b12-bb7e-58cebc13abd0" />
 
-AIzaSyBLJ-GNV3OLD-zM11SPAZTxml9SGwApa6c
+
 nano request.json
 
 <img width="1315" height="526" alt="image" src="https://github.com/user-attachments/assets/31255955-673f-48e6-8b7f-4ca83acd7ce0" />
