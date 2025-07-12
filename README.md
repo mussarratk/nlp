@@ -5,7 +5,11 @@ https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2
 https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/home/module/3
 https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/gMVDM/use-case-demonstration-sentiment-analysis
 https://www.coursera.org/learn/building-intelligent-troubleshooting-agents/lecture/Cm51X/walkthrough-implementing-sentiment-analysis-optional
-- Using a pretrained model enables you to classify text sentiment without the time and resource investment required for training a new model from scratch.
+- Using and utilizing the model for downstream sentiment analysis ("Downstream" implies that the model was likely pre-trained on a very large, general text dataset (like common crawl, Wikipedia, etc.) for a different, more general task (e.g., predicting the next word), and then adapted or fine-tuned for the specific, more focused task of sentiment analysis)
+- business value and application - Sentiment analysis helps businesses quickly classify large volumes of customer feedback, giving them valuable insights into how customers feel about their products or services- categorizes customer feedbacks.
+  <img width="1350" height="523" alt="image" src="https://github.com/user-attachments/assets/d4071778-93c6-4d95-94df-fd044d98e181" />
+
+- key benefit of using pre-trained models - Using a pretrained model enables you to classify text sentiment without the time and resource investment required for training a new model from scratch.
   <img width="1321" height="554" alt="image" src="https://github.com/user-attachments/assets/133bc6b0-35a5-488e-b140-d1956f953aec" />
 
 ------------------------------------------------------------------------
