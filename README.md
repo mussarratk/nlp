@@ -31,6 +31,32 @@ https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/te
 <img width="1342" height="664" alt="image" src="https://github.com/user-attachments/assets/0a3cc399-e549-490b-a3f9-8eef778c9007" />
 
 ------------------------------------------------------------------------------------------------------------------------
+
+https://www.cloudskillsboost.google/paths/17/course_templates/593/labs/541294
+
+<img width="1312" height="622" alt="image" src="https://github.com/user-attachments/assets/6a836c05-ab4c-414c-996c-848d4a7dd37a" />
+
+<img width="1293" height="545" alt="image" src="https://github.com/user-attachments/assets/0f35a40c-e058-4b12-bb7e-58cebc13abd0" />
+
+AIzaSyBLJ-GNV3OLD-zM11SPAZTxml9SGwApa6c
+nano request.json
+
+<img width="1315" height="526" alt="image" src="https://github.com/user-attachments/assets/31255955-673f-48e6-8b7f-4ca83acd7ce0" />
+<img width="1328" height="631" alt="image" src="https://github.com/user-attachments/assets/9bd3e225-ecc5-460a-99df-9b3a7dc3adc4" />
+
+<img width="1315" height="708" alt="image" src="https://github.com/user-attachments/assets/92042300-8a91-4b3c-a91a-4c1395ae45e7" />
+<img width="1165" height="677" alt="image" src="https://github.com/user-attachments/assets/a51fd49e-3da7-410a-8678-0125569e44b4" />
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
 https://www.cloudskillsboost.google/course_templates/40/labs/534090
 ![image](https://github.com/user-attachments/assets/a9a366f2-e29c-4d08-9c36-d4dbfa898262)
 
@@ -50,7 +76,7 @@ https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_
 ![image](https://github.com/user-attachments/assets/e3829781-96ba-491c-b5f2-8b7d380c98ee)
 ![image](https://github.com/user-attachments/assets/931557c7-64e2-4410-8fd1-552166a1c8dd)
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 
 
 
