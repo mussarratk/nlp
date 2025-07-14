@@ -1,5 +1,6 @@
 # nlp - Sentiment Analysis
 - NLP is the area of AI that deals with creating software that understands written and spoken language.
+- Natural Language Processing (NLP): NLP focuses on enabling computers to understand, interpret, and generate human language. This includes understanding the meaning of commands, extracting intent, and then formulating appropriate responses or actions. Conversational AI often leverages NLP heavily.
 
 
 # Azure
