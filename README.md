@@ -1,4 +1,7 @@
 # nlp - Sentiment Analysis
+- NLP is the area of AI that deals with creating software that understands written and spoken language.
+
+
 # Azure
 [Fine-tuning pre-trained LLMs](https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2)
 https://www.coursera.org/learn/nlp-microsoft-azure/home/module/2
