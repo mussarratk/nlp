@@ -87,8 +87,15 @@ https://github.com/mussarratk/training-data-analyst/blob/master/courses/machine_
 
 
 
+-----------------------------------------------------------------------------------------------------------------------
+https://www.coursera.org/learn/gen-ai-foundational-models-for-nlp-and-language-understanding/supplement/YGuiL/summary-and-highlights
 
+- Hyperparameters are externally set configurations of a neural network.
+- A neural network functions via matrix and vector operations, called learnable parameters.
+- Cross-entropy is used to find the best parameters
+- Optimization is used to minimize the loss.
 
+--------------------------------------------------------------------------------------------------------------------
 
 
 
